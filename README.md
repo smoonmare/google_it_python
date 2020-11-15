@@ -17,3 +17,4 @@ You work for an online fruit store, and you need to develop a system that will u
 * Run a script on your web server to monitor system health.
 * Send an email with an alert if the server is ever unhealthy.
 
+Check out [screenshots](/screenshots/) for more info on the process of the running *automation*.
